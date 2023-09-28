@@ -1,6 +1,6 @@
 # CS188: Intro to Artificial Intelligence (FALL 2021)
 
-CS188 was one of my favorite classes at Berkeley. The projects were incredibly fun and interesting!
+CS188 was one of my favorite classes at Berkeley. The projects were incredibly fun and interesting!(No code available because of academic integrity policies)
 
 ## Project 1: Search
 ### A* Search with Manhattan Heuristic
